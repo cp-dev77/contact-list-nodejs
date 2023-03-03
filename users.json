@@ -1,0 +1,72 @@
+[
+    {
+        "firstName": "Pet",
+        "lastName": "Braisher",
+        "email": "pbraisher0@bloomberg.com",
+        "password": "7OKG86",
+        "contactList": []
+    },
+    {
+        "firstName": "Adrea",
+        "lastName": "Schimpke",
+        "email": "aschimpke1@smugmug.com",
+        "password": "P3zzgJ",
+        "contactList": []
+    },
+    {
+        "firstName": "Wittie",
+        "lastName": "Pidduck",
+        "email": "wpidduck2@who.int",
+        "password": "PdVOfJLDRXIr",
+        "contactList": []
+    },
+    {
+        "firstName": "Janean",
+        "lastName": "Boord",
+        "email": "jboord3@latimes.com",
+        "password": "YdjDVmF",
+        "contactList": []
+    },
+    {
+        "firstName": "Gage",
+        "lastName": "Tuckley",
+        "email": "gtuckley4@soup.io",
+        "password": "2PzcHlmq",
+        "contactList": []
+    },
+    {
+        "firstName": "Victoir",
+        "lastName": "Lalevee",
+        "email": "vlalevee5@over-blog.com",
+        "password": "gm77YzaAZ",
+        "contactList": []
+    },
+    {
+        "firstName": "Merle",
+        "lastName": "Dorot",
+        "email": "mdorot6@pinterest.com",
+        "password": "uqfXIWeR",
+        "contactList": []
+    },
+    {
+        "firstName": "Cyrillus",
+        "lastName": "Lawtey",
+        "email": "clawtey7@google.de",
+        "password": "izjOY3zcp",
+        "contactList": []
+    },
+    {
+        "firstName": "Cleopatra",
+        "lastName": "Daveridge",
+        "email": "cdaveridge8@google.de",
+        "password": "B8TmkAhph6Qi",
+        "contactList": []
+    },
+    {
+        "firstName": "Eugenius",
+        "lastName": "Pawelec",
+        "email": "epawelec9@liveinternet.ru",
+        "password": "M9pqexCUoo3",
+        "contactList": []
+    }
+]
